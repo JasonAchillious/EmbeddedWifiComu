@@ -1,0 +1,4 @@
+display.c:18:6:display_init	16	static
+display.c:33:6:add_node	16	static
+display.c:49:6:print_info	32	static
+display.c:69:6:put_info	48	static

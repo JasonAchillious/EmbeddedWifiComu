@@ -1,0 +1,4 @@
+wifi_socket.c:9:6:connect	4	static
+wifi_socket.c:13:6:disconnect	4	static
+wifi_socket.c:17:6:send_msg	16	static
+wifi_socket.c:21:6:receive_msg	4	static
